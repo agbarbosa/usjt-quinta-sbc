@@ -2,6 +2,7 @@ Template Cardboard:
 - https://www.maxboxvr.com/templates/
 - https://content.instructables.com/FYK/BS6M/LFS9QHSZ/FYKBS6MLFS9QHSZ.pdf 
 - Site oficial do Google SDK para VR: https://developers.google.com/cardboard?hl=pt-br
+- SDK do Google para VR em Unity: https://developers.google.com/cardboard/develop/unity/quickstart?hl=pt-br
 
 Par de lentes:
 - https://lista.mercadolivre.com.br/par-de-lentes-biconvexas-para-google-cardboard
